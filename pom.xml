@@ -10,8 +10,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>uniedu-frame-dependencies</module>
-        <!--<module>uniedu-frame-commons</module>-->
+        <module>austus-frame-dependencies</module>
+        <!--<module>austus-frame-commons</module>-->
     </modules>
 
 </project>
